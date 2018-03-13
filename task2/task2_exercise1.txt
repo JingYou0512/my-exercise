@@ -1,2 +1,2 @@
 I want to test git flow.
-everything is good.
+everything is good, it's right?
